@@ -5,7 +5,8 @@
             "type": "Feature",
             "properties": {
                 "id": "5945030094",
-                "name": "德興藥局",
+                "channel": "屈臣氏",
+                "name": "德興門市",
                 "phone": "(03)8889408",
                 "address": "花蓮縣玉里鎮國武里中山路２段５８號",
                 "mask_adult": 5170,
@@ -32,7 +33,8 @@
             "type": "Feature",
             "properties": {
                 "id": "5945040036",
-                "name": "黃藥局",
+                "channel": "屈臣氏",
+                "name": "德興二門市",
                 "phone": "(03)8267211",
                 "address": "花蓮縣新城鄉北埔村北埔路２０３號",
                 "mask_adult": 4260,
@@ -59,7 +61,8 @@
             "type": "Feature",
             "properties": {
                 "id": "5945050069",
-                "name": "富一藥局",
+                "channel": "屈臣氏",
+                "name": "德興三門市",
                 "phone": "(03)8531432",
                 "address": "花蓮縣吉安鄉宜昌村中華路２段２０１號",
                 "mask_adult": 4150,
@@ -86,7 +89,8 @@
             "type": "Feature",
             "properties": {
                 "id": "5945050176",
-                "name": "永和藥局",
+                "channel": "日藥本舖",
+                "name": "德興四門市",
                 "phone": "(03)8573247",
                 "address": "花蓮縣吉安鄉北昌村建國路１段１４５號",
                 "mask_adult": 4880,
@@ -113,7 +117,8 @@
             "type": "Feature",
             "properties": {
                 "id": "5945051208",
-                "name": "祥安藥局",
+                "channel": "日藥本舖",
+                "name": "德興五門市",
                 "phone": "(03)8549719",
                 "address": "花蓮縣吉安鄉南昌村吉興路１段８９號",
                 "mask_adult": 6030,
